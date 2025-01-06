@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+input {
+    background-color: rgb(196, 241, 226);
+    
+}
+#birth {
+    width: 250px;
+}
+#year {
+    background-color: rgb(196, 241, 226);;
+
+}
+#cancel {
+    width: 45px;
+}
+#submit {
+    margin-left: 20%;
+}
